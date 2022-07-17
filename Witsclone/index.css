@@ -1,0 +1,234 @@
+/* Div 1 */
+.header{
+    margin: 20px 20px 80px 5px;
+    display: grid;
+    grid-template-columns: auto auto auto auto auto auto auto auto auto;
+}
+.t-insights, .t-services, .t-essence, .t-careers, .t-company, .top-touch{
+    margin-top: 26px;
+}
+.getintouch{
+    text-decoration: none;
+    background-color: #2d4195;
+    color: #fff;
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: 500;
+    letter-spacing: 0;
+    line-height: 21px;
+    text-align: center;
+    border: none;
+    border-radius: 100px;
+    padding: 12px 20px;
+
+}
+ /* div 2 */
+
+.background{
+    /* margin-top: 30px; */
+    /* margin-left: 20px;
+    margin-right: 20px; */
+    /* padding: 30px; */
+    /* border: #2d4195 1px solid; */
+    background: url("2nddiv.png") no-repeat 50%;
+    height: 490px;
+
+}
+
+.adiscover{
+    text-decoration: none;
+    background-color: #2d4195;
+    color: #fff;
+    /* font-family: Poppins; */
+    font-size: 20px;
+    font-weight: 500;
+    letter-spacing: 0;
+    line-height: 21px;
+    text-align: center;
+    border: none;
+    border-radius: 25.5px;
+    padding: 1em 3em 1em 3em;
+}
+
+.yourtech{
+    margin-top: 30px;
+    margin-left: 85px;
+    width: 35%;
+    color: #272727;
+    font-family: Poppins;
+    font-size: 40px;
+    font-weight: 600;
+    letter-spacing: 0;
+    line-height: 50px;
+}
+.withour{
+    width: 25%;
+    margin-left: 85px;
+    margin-top: 30px;
+    color: #272727;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 500;
+    letter-spacing: 0;
+    line-height: 30px;
+}
+.discover{
+    margin-left: 85px;
+    margin-top: 45px;
+    margin-bottom: 50px;
+
+}
+.div3{
+
+    position: relative;
+    margin: 140px 20px 140px 20px;
+}
+
+
+
+.our{
+    border: 1px solid darkblue;
+    text-align: center;
+    margin: 20px;
+    font-size: 40px;
+}
+
+.beahead{
+    text-align: center;
+    font-size: 25px;
+}
+
+
+/* 
+outer */
+
+.outer{
+    margin: 20px 55px;
+    display: grid;
+    grid-template-columns: 30% 30% 30%;
+    gap: 5px;
+}
+
+.first{
+    background-color: red;
+}
+.second{
+    background-color: blue;
+}
+.third
+{
+    background-color: green;
+}
+.first:hover{
+
+    width: 200px;
+
+}
+
+.second:hover{
+    width: 50%;
+
+}
+
+/* 4th div */
+.fourth{
+    /* border: 2px red solid; */
+    margin-top: 30px;
+    margin-left: 85px;
+    margin-right: 85px;
+    display: grid;
+    grid-template-columns: auto auto auto;
+    column-gap: 40px;
+    row-gap: 30px;
+    
+}
+
+/* .custom{
+    opacity: .2;
+    border: 1px solid #e6e6e6;
+} */
+.headingfourth{
+    color: #2d4195;
+    font-family: Poppins;
+    font-size: 26px;
+    font-weight: 600;
+    letter-spacing: 0;
+    line-height: 40px;
+}
+
+
+/* last */
+.tel, .trms{
+    text-decoration: none;
+}
+
+.trms{
+    color: gray;
+}
+
+.trms:hover{
+    color: black;
+}
+
+.footer{
+    height: 100px;
+    background-color: lightgray;
+    margin-left: 5px;
+    margin-right: 5px;
+    display: grid;
+    grid-template-columns: 35% 30% 35%;
+}
+
+.num{
+    margin-left: 20%;
+}
+
+.terms{
+    margin-right: 20%;
+}
+
+.num, .terms{
+    margin-top: 25px;
+}
+
+/* 2nd last */
+.follow{
+    border-top: 2px solid gray;
+    padding-top: 20px;
+    /* border: 2px red solid; */
+    margin-top: 30px;
+    margin-left: 85px;
+    margin-right: 55px;
+    display: grid;
+    grid-template-columns: 17% 17% 17% 17% 32%;
+}
+
+
+.lst{
+    margin-top: 10px;
+}
+
+.lsst{ 
+    /* anchor tag */
+    text-decoration: none;
+    color: black;
+}
+
+.lsst:hover{
+    color: blue;
+}
+
+/* whychooseus */
+
+.fullchooseus{
+    margin-top: 30px;
+    margin-left: 85px;
+    margin-right: 55px;
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
+.everythingdoes, .blockchain, .innovation, .why, .dishead, .disdesc{
+    margin: 10px
+}
+
+
